@@ -18,6 +18,10 @@ This case study is adapted from my professional experience working on AI-powered
 
 The purpose of this case study is to demonstrate my research approach, analytical thinking, and product decision-making process.
 
+# 🖼️ Visual Note
+
+Editorial illustrations are used in place of proprietary product screenshots to communicate key concepts while preserving confidentiality.
+
 ---
 
 # Project Snapshot
